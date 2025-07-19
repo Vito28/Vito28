@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey! Nice to see you
 Hi, I’m **Delvin**, a passionate full-stack and mobile developer. I’m building VitoTechLab as a personal initiative to create impactful real-world apps through open-source projects and continuous innovation.
 
 - 🚀 Currently building a personal finance web app with React + Node.js + MongoDB
